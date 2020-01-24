@@ -1,4 +1,3 @@
-
 var btn = document.createElement("button");
 btn.innerHTML = "clicca";
 
